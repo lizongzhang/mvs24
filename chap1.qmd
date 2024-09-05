@@ -1,0 +1,35 @@
+---
+title: "第1章"
+---
+
+# 第1章 导论课程简介与R操作回顾
+
+<img src="img/teacher.png" style="width: 24px; height: 24px;margin-right: 10px">[Chap 1 讲义](https://lizongzhang.github.io/mvs/chap1.html)
+  
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[R Introduction](https://lizongzhang.github.io/mvs/R0.html)
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[R中的常用统计分析工具](https://lizongzhang.github.io/mvs/pre.html)
+  
+  -   [习题答案](https://lizongzhang.github.io/mvs/1solution.html)
+
+  -   Useful links  
+  
+      -   ggplot2 Aesthetic specifications <https://ggplot2.tidyverse.org/articles/ggplot2-specs.html>
+      
+      -    HTML COLOR CODES <https://htmlcolorcodes.com>
+      
+      -    Colors in R <http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf>
+
+# 拓展资源
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">经管之家 <https://bbs.pinggu.org/> 
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">狗熊会(微信公众号) <https://www.xiong99.com.cn/> 
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">UCLA Data Analysis Examples <https://stats.oarc.ucla.edu/other/dae/> 
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">Learn Excel with Examples <https://www.excel-easy.com/examples.html> 
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">The Data And Story Library <https://dasl.datadescription.com/> 
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> Kaggle <https://www.kaggle.com/> 
