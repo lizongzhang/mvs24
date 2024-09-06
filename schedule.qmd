@@ -42,12 +42,17 @@ See @tbl-letters.
 
 -   时间：20241129 19:30-21:30
 
--   上机开卷
+-   上机开卷，可以上网，不得使用通信工具。
 
--   自带笔记本电脑，要运行R代码，根据代码输出结果回答问题
+-   自带笔记本电脑，要运行R代码，根据代码输出结果回答问题。
 
 <details>
 
 <summary>往年期末试卷</summary>
 
 <img src="img/final.png" alt="往年期末试卷">
+
+# 往年测验
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[测验试卷](https://lizongzhang.github.io/mvs/2022-Multivariate-Stat-Quiz.html)
+

@@ -67,7 +67,14 @@
     "href": "chap1.html",
     "title": "第1章",
     "section": "",
-    "text": "第1章 导论课程简介与R操作回顾\nChap 1 讲义\nR Introduction\nR中的常用统计分析工具\n\n习题答案\nUseful links\n\nggplot2 Aesthetic specifications https://ggplot2.tidyverse.org/articles/ggplot2-specs.html\nHTML COLOR CODES https://htmlcolorcodes.com\nColors in R http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf\n\n\n\n\n拓展资源\n经管之家 https://bbs.pinggu.org/\n狗熊会(微信公众号) https://www.xiong99.com.cn/\nUCLA Data Analysis Examples https://stats.oarc.ucla.edu/other/dae/\nLearn Excel with Examples https://www.excel-easy.com/examples.html\nThe Data And Story Library https://dasl.datadescription.com/\n Kaggle https://www.kaggle.com/"
+    "text": "Chap 1 讲义\nR Introduction\nR中的常用统计分析工具\n\n习题答案\nUseful links\n\nggplot2 Aesthetic specifications https://ggplot2.tidyverse.org/articles/ggplot2-specs.html\nHTML COLOR CODES https://htmlcolorcodes.com\nColors in R http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf"
+  },
+  {
+    "objectID": "chap1.html#讨论题1",
+    "href": "chap1.html#讨论题1",
+    "title": "第1章",
+    "section": "讨论题1",
+    "text": "讨论题1\n阅读下述推文\n\n微信公众号狗熊会&gt;案例图书&gt;精品案例&gt;谁在看直播——基于RFM的粉丝聚类\n微信公众号狗熊会&gt;案例图书&gt;精品案例&gt;B站“低创”视频创作者识别\n\n1.1 数据来源？\n1.2 样本容量？\n1.3 研究中使用了哪些变量？\n1.4 使用了哪些统计方法？\n1.5 得出哪些有价值的结论？"
   },
   {
     "objectID": "case1code.html",
@@ -175,39 +182,18 @@
     "text": "每组3人，由组长填写在线问卷，提交分组信息：https://www.wjx.top/vm/e3AyWsR.aspx#"
   },
   {
-    "objectID": "case.html#小组案例分析作业",
-    "href": "case.html#小组案例分析作业",
+    "objectID": "case.html#小组作业",
+    "href": "case.html#小组作业",
     "title": "小组作业",
-    "section": "小组案例分析作业",
-    "text": "小组案例分析作业\n要求\n\n示例\n\n第3-4章 广州六大奶茶品牌\n第7-8章 小组作业收获感\n第8-9章 汽车油耗\n第9-10章 奶茶品牌、区位和价格\n第11章 二手房房价、区位和房龄"
-  },
-  {
-    "objectID": "case.html#往届小组作业演示文稿",
-    "href": "case.html#往届小组作业演示文稿",
-    "title": "小组作业",
-    "section": "往届小组作业演示文稿",
-    "text": "往届小组作业演示文稿\n\n饮料特征分析——第3-4章图表工具和描述统计R\n广东省地市领导班子特征分析——第3章图表工具SPSS\n奶茶消费调查——第3章图表工具SPSS\n证监会录用人员特征——第3章图表工具Excel\n饮料特征分析——第7-8章区间估计和假设检验R\n证券分析师——第9-10章卡方检验和方差分析R\n饮料特征分析——第9-10章卡方检验和方差分析R\n广州市住宅房租比较——第10章方差分析SPSS\n大学生择偶观调查——第10章方差分析SPSS\n饮料特征分析——第11章相关和回归分析R"
-  },
-  {
-    "objectID": "case.html#实验报告",
-    "href": "case.html#实验报告",
-    "title": "小组作业",
-    "section": "实验报告",
-    "text": "实验报告\n\n实验报告写作要求\n往届实验报告——饮料特征分析R"
+    "section": "小组作业",
+    "text": "小组作业\n\n选取自己感兴趣的问题，收集数据，运用第4-9章的方法分析数据，提炼研究结论。\n第12周汇报，每组不超过10分钟。\n提交文件：汇报PDF文档，R项目文件(含代码，数据文件等)"
   },
   {
     "objectID": "case.html#第6周讨论课安排",
     "href": "case.html#第6周讨论课安排",
     "title": "小组作业",
     "section": "第6周讨论课安排",
-    "text": "第6周讨论课安排\n\n讨论课前准备\n\n数据要求：微观截面数据，有效样本容量大于100，定量变量至少3个，定性变量至少3个。\n在Excel中整理好收集的数据，变量名称简洁含义明确，剔除有缺失值或异常值的个案，将其导入到SPSS。\n运用第3-4章绘制图表，报告描述性统计量，制作好演示文件PPT。\n遇到的问题和困难。\n请带笔记本电脑。"
-  },
-  {
-    "objectID": "case.html#第13周讨论课安排",
-    "href": "case.html#第13周讨论课安排",
-    "title": "小组作业",
-    "section": "第13周讨论课安排",
-    "text": "第13周讨论课安排\n\n讨论课前准备\n\n在Excel中整理好收集的数据。\n运用第9章、第10章、第11章(可选做)的方法分析数据。\n小组作业、实验报告中遇到的问题、困难。\n请带笔记本电脑。\n\n\n\n发言时间表和讨论时间表(见QQ群文件)"
+    "text": "第6周讨论课安排\n\n讨论课前准备\n\n数据要求：将数据导入R。\n运用第4-6章方法。\n遇到的问题和困难。\n请带笔记本电脑。\n\n\n\n发言时间表和讨论时间表(见QQ群文件)"
   },
   {
     "objectID": "paper.html",
@@ -634,6 +620,6 @@
     "href": "schedule.html",
     "title": "课程安排和考核",
     "section": "",
-    "text": "课程安排\n\n\n\nTable 1: 课程时间表\n\n\n\n\n\n周\n日期\n安排\n\n\n\n\n第1周\n20240906\n第1章 课程介绍和R操作回顾\n\n\n第2周\n20240913\n第4章 聚类分析 I\n\n\n第3周\n20240920\n第4章 聚类分析 II\n\n\n第4周\n20240927\n第5章 判别分析\n\n\n第5周\n20241004\n国庆放假\n\n\n第6周\n20241011\n第6章 主成分分析\n\n\n第7周\n20241018\n第4-6章 习题讲评 小组作业答疑\n\n\n第8周\n20241025\n第4-6章测验及讲评 (上机开卷)\n\n\n第9周\n20241101\n第7章 因子分析\n\n\n第10周\n20241108\n第8章 对应分析\n\n\n第11周\n20241115\n第9章 典型相关分析\n\n\n第12周\n20241122\n小组作业汇报\n\n\n第13周\n20241129\n期末考试(上机开卷)\n\n\n\n\n\n\nSee Table 1.\n\n\n课程考核\n\n平时成绩 50%\n\n个人作业 15%\n小组作业 15%\n测验 15%\n考勤 5%\n\n期末成绩 50%\n\n\n\n期末考试\n\n时间：20241129 19:30-21:30\n上机开卷\n自带笔记本电脑，要运行R代码，根据代码输出结果回答问题\n\n\n\n往年期末试卷"
+    "text": "课程安排\n\n\n\nTable 1: 课程时间表\n\n\n\n\n\n周\n日期\n安排\n\n\n\n\n第1周\n20240906\n第1章 课程介绍和R操作回顾\n\n\n第2周\n20240913\n第4章 聚类分析 I\n\n\n第3周\n20240920\n第4章 聚类分析 II\n\n\n第4周\n20240927\n第5章 判别分析\n\n\n第5周\n20241004\n国庆放假\n\n\n第6周\n20241011\n第6章 主成分分析\n\n\n第7周\n20241018\n第4-6章 习题讲评 小组作业答疑\n\n\n第8周\n20241025\n第4-6章测验及讲评 (上机开卷)\n\n\n第9周\n20241101\n第7章 因子分析\n\n\n第10周\n20241108\n第8章 对应分析\n\n\n第11周\n20241115\n第9章 典型相关分析\n\n\n第12周\n20241122\n小组作业汇报\n\n\n第13周\n20241129\n期末考试(上机开卷)\n\n\n\n\n\n\nSee Table 1.\n\n\n课程考核\n\n平时成绩 50%\n\n个人作业 15%\n小组作业 15%\n测验 15%\n考勤 5%\n\n期末成绩 50%\n\n\n\n期末考试\n\n时间：20241129 19:30-21:30\n上机开卷，可以上网，不得使用通信工具。\n自带笔记本电脑，要运行R代码，根据代码输出结果回答问题。\n\n\n\n往年期末试卷\n\n\n\n\n往年测验\n测验试卷"
   }
 ]
